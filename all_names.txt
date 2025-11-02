@@ -1,0 +1,5 @@
+andar: verbo - mover-se com os pés
+feliz: adjetivo - que sente felicidade
+computador: substantivo - máquina que processa informações
+casa: substantivo - lugar onde alguém mora
+triste: adjetivo - que sente tristeza

@@ -1,0 +1,9 @@
+{
+  "nome_ia": "Sofia",
+  "idioma": "português",
+  "porta": 8080,
+  "modo_aprendizado": true,
+  "respostas_naturais": true,
+  "arquivo_palavras": "all_names.txt",
+  "arquivo_memoria": "memoria.json"
+}
